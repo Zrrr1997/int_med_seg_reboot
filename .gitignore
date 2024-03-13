@@ -1,0 +1,12 @@
+radiology/model/pretrained_sw_fastedit.pt
+src/outputs/*
+src/cache/*
+cufile.log
+src/sw_fastedit.egg-info/*
+src/sw_fastedit/__pycache__
+**/__pycache__/*
+*.pt
+**/tensorboard/*
+__pycache__/
+tensorboard/
+radiology/lib/transforms/__pycache__/*
